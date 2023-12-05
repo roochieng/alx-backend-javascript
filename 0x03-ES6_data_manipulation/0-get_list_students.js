@@ -1,3 +1,7 @@
+/* Create a function named getListStudents
+* that returns an array of objects.
+*/
+
 function getListStudents() {
   return [
     { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
